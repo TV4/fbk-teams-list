@@ -1,0 +1,458 @@
+[
+  {
+    "LeagueID": 40031,
+    "Name": "Athletic Bilbao",
+    "OddsetName": "Athletic Bilbao",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Real Betis",
+    "OddsetName": "Real Betis",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Celta Vigo",
+    "OddsetName": "Celta Vigo",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Real Madrid",
+    "OddsetName": "Real Madrid",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Granada",
+    "OddsetName": "Granada CF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Mallorca",
+    "OddsetName": "Mallorca",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Getafe",
+    "OddsetName": "Getafe",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Alavés",
+    "OddsetName": "Alaves",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Las Palmas",
+    "OddsetName": "Las Palmas",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Real Sociedad",
+    "OddsetName": "Real Sociedad",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Valencia",
+    "OddsetName": "Valencia",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Osasuna",
+    "OddsetName": "Osasuna",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Cádiz",
+    "OddsetName": "Cadiz",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Almeria",
+    "OddsetName": "Almeria",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Villarreal",
+    "OddsetName": "Villarreal",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Barcelona",
+    "OddsetName": "Barcelona",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Sevilla",
+    "OddsetName": "Sevilla",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Girona",
+    "OddsetName": "Girona",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Rayo Vallecano",
+    "OddsetName": "Vallecano",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40031,
+    "Name": "Atlético Madrid",
+    "OddsetName": "Atletico Madrid",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Frosinone",
+    "OddsetName": "Frosinone",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Atalanta",
+    "OddsetName": "Atalanta",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Napoli",
+    "OddsetName": "Napoli",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Sassuolo",
+    "OddsetName": "Sassuolo",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Juventus",
+    "OddsetName": "Juventus",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Bologna",
+    "OddsetName": "Bologna",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Lazio",
+    "OddsetName": "Lazio",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Genoa",
+    "OddsetName": "Genoa",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "AC Milan",
+    "OddsetName": "AC Milan",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Torino",
+    "OddsetName": "Torino",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Fiorentina",
+    "OddsetName": "Fiorentina",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Lecce",
+    "OddsetName": "Lecce",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Cagliari",
+    "OddsetName": "Cagliari",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Inter Milan",
+    "OddsetName": "Inter Milan",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Hellas Verona",
+    "OddsetName": "Verona",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Roma",
+    "OddsetName": "AS Roma",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Salernitana",
+    "OddsetName": "Salernitana",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Udinese",
+    "OddsetName": "Udinese",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Monza",
+    "OddsetName": "Monza Brianza",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40030,
+    "Name": "Empoli",
+    "OddsetName": "Empoli",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Bournemouth",
+    "OddsetName": "Bournemouth",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Tottenham",
+    "OddsetName": "Tottenham",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Manchester United",
+    "OddsetName": "Man Utd",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Nottingham Forest",
+    "OddsetName": "Nottingham Forest",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Chelsea",
+    "OddsetName": "Chelsea",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Luton Town",
+    "OddsetName": "Luton Town",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Arsenal",
+    "OddsetName": "Arsenal",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Fulham",
+    "OddsetName": "Fulham",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Brighton & Hove Albion",
+    "OddsetName": "Brighton",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "West Ham United",
+    "OddsetName": "West Ham",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Everton",
+    "OddsetName": "Everton",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Wolverhampton Wanderers",
+    "OddsetName": "Wolves",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Brentford",
+    "OddsetName": "Brentford",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Crystal Palace",
+    "OddsetName": "Crystal Palace",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Sheffield United",
+    "OddsetName": "Sheffield Utd",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Manchester City",
+    "OddsetName": "Man City",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Burnley",
+    "OddsetName": "Burnley",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Aston Villa",
+    "OddsetName": "Aston Villa",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Newcastle United",
+    "OddsetName": "Newcastle",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40253,
+    "Name": "Liverpool",
+    "OddsetName": "Liverpool",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "IFK Göteborg",
+    "OddsetName": "IFK Goteborg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "BK Häcken",
+    "OddsetName": "BK Hacken",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "IK Sirius",
+    "OddsetName": "IK Sirius",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Malmö FF",
+    "OddsetName": "Malmo FF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "IFK Värnamo",
+    "OddsetName": "Varnamo IFK",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Halmstads BK",
+    "OddsetName": "Halmstads",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Brommapojkarna",
+    "OddsetName": "Brommapojkarna",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Kalmar FF",
+    "OddsetName": "Kalmar FF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Djurgårdens IF",
+    "OddsetName": "Djurgardens IF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Degerfors IF",
+    "OddsetName": "Degerfors IF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Mjällby AIF",
+    "OddsetName": "Mjallby AIF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Hammarby IF",
+    "OddsetName": "Hammarby IF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Elfsborg",
+    "OddsetName": "IF Elfsborg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "IFK Norrköping",
+    "OddsetName": "IFK Norrkoping",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "AIK",
+    "OddsetName": "AIK Solna",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84731,
+    "Name": "Varbergs BoIS",
+    "OddsetName": "Varbergs BoIS",
+    "TV4Name": ""
+  }
+]
