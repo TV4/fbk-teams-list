@@ -1,0 +1,152 @@
+{
+    "Sports": [
+      {
+        "SportID": 1,
+        "Leagues": [
+          {
+            "LeagueID": 40031,
+            "Games": [
+              {
+                "GameID": 158815946,
+                "Home": "Spain – La Liga 2023/24 – Top Goalscorer",
+                "GameDate": "2023-08-25T17:30:00",
+                "IsLive": 0,
+                "GameType": 1,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221162,
+                "Home": "Sevilla",
+                "Away": "Girona",
+                "GameDate": "2023-08-26T19:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221164,
+                "Home": "Athletic Bilbao",
+                "Away": "Real Betis",
+                "GameDate": "2023-08-27T19:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221166,
+                "Home": "Valencia",
+                "Away": "Osasuna",
+                "GameDate": "2023-08-27T17:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221160,
+                "Home": "Cadiz",
+                "Away": "Almeria",
+                "GameDate": "2023-08-26T17:00:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 154229481,
+                "Home": "Spain - La Liga 2023/24 - To be Relegated",
+                "GameDate": "2023-08-25T17:30:00",
+                "IsLive": 0,
+                "GameType": 1,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 152970337,
+                "Home": "Spain - La Liga 2023/24 - Top 4 Finish",
+                "GameDate": "2023-08-25T17:30:00",
+                "IsLive": 0,
+                "GameType": 1,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29242497,
+                "Home": "Granada CF",
+                "Away": "Mallorca",
+                "GameDate": "2023-08-26T17:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221163,
+                "Home": "Villarreal",
+                "Away": "Barcelona",
+                "GameDate": "2023-08-27T15:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 151708508,
+                "Home": "Spain - La Liga 2023/24 - Winner",
+                "GameDate": "2023-08-25T17:30:00",
+                "IsLive": 0,
+                "GameType": 1,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221165,
+                "Home": "Vallecano",
+                "Away": "Atletico Madrid",
+                "GameDate": "2023-08-28T19:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29221161,
+                "Home": "Celta Vigo",
+                "Away": "Real Madrid",
+                "GameDate": "2023-08-25T19:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29242499,
+                "Home": "Getafe",
+                "Away": "Alaves",
+                "GameDate": "2023-08-28T17:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              },
+              {
+                "GameID": 29242498,
+                "Home": "Las Palmas",
+                "Away": "Real Sociedad",
+                "GameDate": "2023-08-25T17:30:00",
+                "IsLive": 0,
+                "GameType": 0,
+                "LeagueID": 40031,
+                "SportID": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "code": 0
+  }
+  

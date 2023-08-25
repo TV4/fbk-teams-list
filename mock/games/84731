@@ -1,0 +1,104 @@
+{
+  "Sports": [
+    {
+      "SportID": 1,
+      "Leagues": [
+        {
+          "LeagueID": 84731,
+          "Games": [
+            {
+              "GameID": 29224991,
+              "Home": "IFK Goteborg",
+              "Away": "BK Hacken",
+              "GameDate": "2023-08-27T15:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224990,
+              "Home": "Djurgardens IF",
+              "Away": "Degerfors IF",
+              "GameDate": "2023-08-27T15:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224980,
+              "Home": "Mjallby AIF",
+              "Away": "Hammarby IF",
+              "GameDate": "2023-08-27T13:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29225023,
+              "Home": "AIK Solna",
+              "Away": "Varbergs BoIS",
+              "GameDate": "2023-08-28T17:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29225025,
+              "Home": "IF Elfsborg",
+              "Away": "IFK Norrkoping",
+              "GameDate": "2023-08-28T17:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 126073083,
+              "Home": "Winner - Allsvenskan 2023",
+              "GameDate": "2023-08-27T15:30:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224988,
+              "Home": "Varnamo IFK",
+              "Away": "Halmstads",
+              "GameDate": "2023-08-27T13:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29225027,
+              "Home": "IK Sirius",
+              "Away": "Malmo FF",
+              "GameDate": "2023-08-28T17:10:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224922,
+              "Home": "Brommapojkarna",
+              "Away": "Kalmar FF",
+              "GameDate": "2023-08-27T13:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 84731,
+              "SportID": 1
+            }
+          ]
+        }
+            ]
+    }
+  ],
+  "code": 0
+}

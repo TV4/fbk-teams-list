@@ -1,0 +1,142 @@
+{
+  "Sports": [
+    {
+      "SportID": 1,
+      "Leagues": [
+        {
+          "LeagueID": 40030,
+          "Games": [
+            {
+              "GameID": 29199284,
+              "Home": "Napoli",
+              "Away": "Sassuolo",
+              "GameDate": "2023-08-27T18:45:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199280,
+              "Home": "Verona",
+              "Away": "AS Roma",
+              "GameDate": "2023-08-26T18:45:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199282,
+              "Home": "AC Milan",
+              "Away": "Torino",
+              "GameDate": "2023-08-26T18:45:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 158815499,
+              "Home": "Italy – Serie A 2023/24 – To be Relegated",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199286,
+              "Home": "Lazio",
+              "Away": "Genoa",
+              "GameDate": "2023-08-27T18:45:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 157906478,
+              "Home": "Italy - Serie A 2023/24 - Top 4 Finish",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 151654853,
+              "Home": "Italy - Serie A 2023/24 - Winner",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199287,
+              "Home": "Cagliari",
+              "Away": "Inter Milan",
+              "GameDate": "2023-08-28T18:45:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199281,
+              "Home": "Monza Brianza",
+              "Away": "Empoli",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199285,
+              "Home": "Juventus",
+              "Away": "Bologna",
+              "GameDate": "2023-08-27T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199283,
+              "Home": "Fiorentina",
+              "Away": "Lecce",
+              "GameDate": "2023-08-27T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199288,
+              "Home": "Salernitana",
+              "Away": "Udinese",
+              "GameDate": "2023-08-28T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            },
+            {
+              "GameID": 29199279,
+              "Home": "Frosinone",
+              "Away": "Atalanta",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40030,
+              "SportID": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "code": 0
+}
