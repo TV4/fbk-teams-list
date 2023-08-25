@@ -1,0 +1,255 @@
+{
+  "Odds": [
+    {
+      "GameID": 29221070,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353820,
+              "Odds": "5.85"
+            },
+            {
+              "LineIntID": 1105353819,
+              "Odds": "4.70"
+            },
+            {
+              "LineIntID": 1105353816,
+              "Odds": "1.53"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29224686,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105573360,
+              "Odds": "3.69"
+            },
+            {
+              "LineIntID": 1105573361,
+              "Odds": "2.12"
+            },
+            {
+              "LineIntID": 1105573357,
+              "Odds": "3.40"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221067,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353694,
+              "Odds": "3.55"
+            },
+            {
+              "LineIntID": 1105353690,
+              "Odds": "2.14"
+            },
+            {
+              "LineIntID": 1105353693,
+              "Odds": "3.47"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29224684,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105573347,
+              "Odds": "11.50"
+            },
+            {
+              "LineIntID": 1105573343,
+              "Odds": "1.26"
+            },
+            {
+              "LineIntID": 1105573346,
+              "Odds": "6.25"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221065,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353679,
+              "Odds": "3.98"
+            },
+            {
+              "LineIntID": 1105353676,
+              "Odds": "3.54"
+            },
+            {
+              "LineIntID": 1105353680,
+              "Odds": "1.99"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221066,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353683,
+              "Odds": "1.24"
+            },
+            {
+              "LineIntID": 1105353687,
+              "Odds": "13.30"
+            },
+            {
+              "LineIntID": 1105353686,
+              "Odds": "6.40"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221069,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353809,
+              "Odds": "2.17"
+            },
+            {
+              "LineIntID": 1105353813,
+              "Odds": "3.04"
+            },
+            {
+              "LineIntID": 1105353812,
+              "Odds": "4.05"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221064,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353673,
+              "Odds": "9.25"
+            },
+            {
+              "LineIntID": 1105353669,
+              "Odds": "1.30"
+            },
+            {
+              "LineIntID": 1105353672,
+              "Odds": "6.15"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29221068,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105353743,
+              "Odds": "3.30"
+            },
+            {
+              "LineIntID": 1105353742,
+              "Odds": "3.37"
+            },
+            {
+              "LineIntID": 1105353739,
+              "Odds": "2.30"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    },
+    {
+      "GameID": 29224685,
+      "LeagueID": 40253,
+      "Markets": [
+        {
+          "Lines": [
+            {
+              "LineIntID": 1105573354,
+              "Odds": "1.19"
+            },
+            {
+              "LineIntID": 1105573353,
+              "Odds": "7.60"
+            },
+            {
+              "LineIntID": 1105573350,
+              "Odds": "15.75"
+            }
+          ],
+          "MarketTypeID": 1
+        }
+      ],
+      "SportID": 1,
+      "Suspended": false
+    }
+  ],
+  "code": 0
+}

@@ -1,0 +1,187 @@
+{
+  "Sports": [
+    {
+      "SportID": 1,
+      "Leagues": [
+        {
+          "LeagueID": 40253,
+          "Games": [
+            {
+              "GameID": 151566695,
+              "Home": "England - Premier League 2023/24 - Top Goalscorer",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 147852486,
+              "Home": "England - Premier League 2023/24 - Winner",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743294,
+              "Home": "England - Premier League 2023/24 - Top 2 Finish",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221070,
+              "Home": "Brighton",
+              "Away": "West Ham",
+              "GameDate": "2023-08-26T16:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224686,
+              "Home": "Burnley",
+              "Away": "Aston Villa",
+              "GameDate": "2023-08-27T13:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221067,
+              "Home": "Brentford",
+              "Away": "Crystal Palace",
+              "GameDate": "2023-08-26T14:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743307,
+              "Home": "England - Premier League 2023/24 - Top 6 Finish",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743296,
+              "Home": "England - Premier League 2023/24 - Top 4 Finish",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743327,
+              "Home": "England - Premier League 2023/24 - To be Relegated",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224684,
+              "Home": "Chelsea",
+              "Away": "Luton Town",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221065,
+              "Home": "Bournemouth",
+              "Away": "Tottenham",
+              "GameDate": "2023-08-26T11:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221066,
+              "Home": "Arsenal",
+              "Away": "Fulham",
+              "GameDate": "2023-08-26T14:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221069,
+              "Home": "Newcastle",
+              "Away": "Liverpool",
+              "GameDate": "2023-08-27T15:30:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743322,
+              "Home": "England - Premier League 2023/24 - Bottom 10 Finish",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221064,
+              "Home": "Man Utd",
+              "Away": "Nottingham Forest",
+              "GameDate": "2023-08-26T14:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 149743320,
+              "Home": "England - Premier League 2023/24 - Top 10 Finish",
+              "GameDate": "2023-08-25T19:00:00",
+              "IsLive": 0,
+              "GameType": 1,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29221068,
+              "Home": "Everton",
+              "Away": "Wolves",
+              "GameDate": "2023-08-26T14:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            },
+            {
+              "GameID": 29224685,
+              "Home": "Sheffield Utd",
+              "Away": "Man City",
+              "GameDate": "2023-08-27T13:00:00",
+              "IsLive": 0,
+              "GameType": 0,
+              "LeagueID": 40253,
+              "SportID": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "code": 0
+}
