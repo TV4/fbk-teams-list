@@ -454,5 +454,341 @@
     "Name": "Varbergs BoIS",
     "OddsetName": "Varbergs BoIS",
     "TV4Name": "Varbergs BoIS"
-  }
+  },
+  {
+    "LeagueID": 209719,
+    "Name": "Kazakhstan",
+    "OddsetName": "Kazakhstan",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Finland",
+    "OddsetName": "Finland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Litauen",
+    "OddsetName": "Lithuania",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Montenegro",
+    "OddsetName": "Montenegro",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Danmark",
+    "OddsetName": "Denmark",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "San Marino",
+    "OddsetName": "San Marino",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Frankrike",
+    "OddsetName": "France",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Irland",
+    "OddsetName": "Ireland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Nederländerna",
+    "OddsetName": "Netherlands",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Grekland",
+    "OddsetName": "Greece",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Polen",
+    "OddsetName": "Poland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Färöarna",
+    "OddsetName": "Faroe Islands",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Serbien",
+    "OddsetName": "Serbia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Ungern",
+    "OddsetName": "Hungary",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Slovenien",
+    "OddsetName": "Slovenia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Nordirland",
+    "OddsetName": "Northern Ireland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Tjeckien",
+    "OddsetName": "Czech Republic",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Albanien",
+    "OddsetName": "Albania",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Georgien",
+    "OddsetName": "Georgia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Spanien",
+    "OddsetName": "Spain",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Bosnien-Hercegovina",
+    "OddsetName": "Bosnia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Liechtenstein",
+    "OddsetName": "Liechtenstein",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Cypern",
+    "OddsetName": "Cyprus",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Skottland",
+    "OddsetName": "Scotland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Kroatien",
+    "OddsetName": "Croatia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Lettland",
+    "OddsetName": "Latvia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Luxemburg",
+    "OddsetName": "Luxembourg",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Island",
+    "OddsetName": "Iceland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Slovakien",
+    "OddsetName": "Slovakia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Portugal",
+    "OddsetName": "Portugal",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Turkiet",
+    "OddsetName": "Turkey",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Armenien",
+    "OddsetName": "Armenia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Azerbajdzjan",
+    "OddsetName": "Azerbaijan",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Belgien",
+    "OddsetName": "Belgium",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Andorra",
+    "OddsetName": "Andorra",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Belarus",
+    "OddsetName": "Belarus",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Estland",
+    "OddsetName": "Estonia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Sverige",
+    "OddsetName": "Sweden",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Ukraina",
+    "OddsetName": "Ukrain",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "England",
+    "OddsetName": "England",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Kosovo",
+    "OddsetName": "Kosovo",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Schweiz",
+    "OddsetName": "Switzerland",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Nordmakedonien",
+    "OddsetName": "North Macedonia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Italien",
+    "OddsetName": "Italy",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Rumänien",
+    "OddsetName": "Romania",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Israel",
+    "OddsetName": "Israel",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Moldavien",
+    "OddsetName": "Moldova",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Bulgarien",
+    "OddsetName": "Bulgaria",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Gibraltar",
+    "OddsetName": "Gibraltar",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Bosnien",
+    "OddsetName": "Bosnia",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Wales",
+    "OddsetName": "Wales",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Vitryssland",
+    "OddsetName": "Belarus",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Malta",
+    "OddsetName": "Malta",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Norge",
+    "OddsetName": "Norway",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Österrike",
+    "OddsetName": "Austria",
+    "TV4Name": ""
+},
+{
+    "LeagueID": 209719,
+    "Name": "Kazakstan",
+    "OddsetName": "Kazakhstan",
+    "TV4Name": ""
+}
 ]
