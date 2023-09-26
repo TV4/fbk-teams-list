@@ -1,25 +1,35 @@
 import csv
 import json
 
-with open("teams.json", "r") as read_it:
-    data = json.load(read_it)
+
+def make_json(csvFilePath, jsonFilePath):
+    # create a dictionary
+    data = []
+
+    # Open a csv reader called DictReader
+    with open(csvFilePath, encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+
+        # Convert each row into a dictionary
+        # and add it to data
+        for rows in csvReader:
+            # Assuming a column named 'No' to
+            # be the primary key
+            data.append(rows)
+
+    # Open a json writer, and use the json.dumps()
+    # function to dump data
+    with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(data, indent=4))
 
 
-data_file = open('teams.csv', 'w')
+# Driver Code
 
-# create the csv writer object
-csv_writer = csv.writer(data_file)
+# Decide the two file paths according to your
+# computer system
+csvFilePath = r'teams.csv'
+jsonFilePath = r'teams_1.json'
 
-count = 0
+# Call the make_json function
+make_json(csvFilePath, jsonFilePath)
 
-for emp in data:
-    if count == 0:
-        # Writing headers of CSV file
-        header = emp.keys()
-        csv_writer.writerow(header)
-        count += 1
-
-    # Writing data of CSV file
-    csv_writer.writerow(emp.values())
-
-data_file.close()
