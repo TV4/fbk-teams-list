@@ -1240,5 +1240,17 @@
     "Name": "Clermont",
     "OddsetName": "Clermont",
     "TV4Name": ""
+  },
+  {
+    "LeagueID": 52938,
+    "Name": "Panetolikos",
+    "OddsetName": "Panetolikos",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 52938,
+    "Name": "OFI Crete",
+    "OddsetName": "OFI Crete",
+    "TV4Name": ""
   }
 ]
