@@ -460,335 +460,785 @@
     "Name": "Kazakhstan",
     "OddsetName": "Kazakhstan",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Finland",
     "OddsetName": "Finland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Litauen",
     "OddsetName": "Lithuania",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Montenegro",
     "OddsetName": "Montenegro",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Danmark",
     "OddsetName": "Denmark",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "San Marino",
     "OddsetName": "San Marino",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Frankrike",
     "OddsetName": "France",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Irland",
     "OddsetName": "Ireland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Nederländerna",
     "OddsetName": "Netherlands",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Grekland",
     "OddsetName": "Greece",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Polen",
     "OddsetName": "Poland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Färöarna",
     "OddsetName": "Faroe Islands",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Serbien",
     "OddsetName": "Serbia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Ungern",
     "OddsetName": "Hungary",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Slovenien",
     "OddsetName": "Slovenia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Nordirland",
     "OddsetName": "Northern Ireland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Tjeckien",
     "OddsetName": "Czech Republic",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Albanien",
     "OddsetName": "Albania",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Georgien",
     "OddsetName": "Georgia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Spanien",
     "OddsetName": "Spain",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Bosnien-Hercegovina",
     "OddsetName": "Bosnia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Liechtenstein",
     "OddsetName": "Liechtenstein",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Cypern",
     "OddsetName": "Cyprus",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Skottland",
     "OddsetName": "Scotland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Kroatien",
     "OddsetName": "Croatia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Lettland",
     "OddsetName": "Latvia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Luxemburg",
     "OddsetName": "Luxembourg",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Island",
     "OddsetName": "Iceland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Slovakien",
     "OddsetName": "Slovakia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Portugal",
     "OddsetName": "Portugal",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Turkiet",
     "OddsetName": "Turkey",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Armenien",
     "OddsetName": "Armenia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Azerbajdzjan",
     "OddsetName": "Azerbaijan",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Belgien",
     "OddsetName": "Belgium",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Andorra",
     "OddsetName": "Andorra",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Belarus",
     "OddsetName": "Belarus",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Estland",
     "OddsetName": "Estonia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Sverige",
     "OddsetName": "Sweden",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Ukraina",
     "OddsetName": "Ukrain",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "England",
     "OddsetName": "England",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Kosovo",
     "OddsetName": "Kosovo",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Schweiz",
     "OddsetName": "Switzerland",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Nordmakedonien",
     "OddsetName": "North Macedonia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Italien",
     "OddsetName": "Italy",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Rumänien",
     "OddsetName": "Romania",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Israel",
     "OddsetName": "Israel",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Moldavien",
     "OddsetName": "Moldova",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Bulgarien",
     "OddsetName": "Bulgaria",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Gibraltar",
     "OddsetName": "Gibraltar",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Bosnien",
     "OddsetName": "Bosnia",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Wales",
     "OddsetName": "Wales",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Vitryssland",
     "OddsetName": "Belarus",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Malta",
     "OddsetName": "Malta",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Norge",
     "OddsetName": "Norway",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Österrike",
     "OddsetName": "Austria",
     "TV4Name": ""
-},
-{
+  },
+  {
     "LeagueID": 209719,
     "Name": "Kazakstan",
     "OddsetName": "Kazakhstan",
     "TV4Name": ""
-}
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Lorient",
+    "OddsetName": "Utsiktens BK",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Toulouse",
+    "OddsetName": "GAIS Goteborg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Lens",
+    "OddsetName": "Osters IF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Lyon",
+    "OddsetName": "Landskrona BoIS",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Clermont",
+    "OddsetName": "Gefle",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Trelleborg",
+    "OddsetName": "Trelleborgs FF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Östersunds FK",
+    "OddsetName": "Ostersunds FK",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "IK Brage",
+    "OddsetName": "IK Brage",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Örebro SK",
+    "OddsetName": "Orebro SK",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Jönköpings Södra IF",
+    "OddsetName": "Jonkopings Sodra",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "GIF Sundsvall",
+    "OddsetName": "GIF Sundsvall",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "AFC Eskilstuna",
+    "OddsetName": "AFC Eskilstuna",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Helsingborgs IF",
+    "OddsetName": "Helsingborgs IF",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Örgryte IS",
+    "OddsetName": "Orgryte IS",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 84732,
+    "Name": "Skövde AIK",
+    "OddsetName": "Skovde AIK",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Leicester",
+    "OddsetName": "Leicester",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Ipswich",
+    "OddsetName": "Ipswich",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Preston",
+    "OddsetName": "Preston",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Hull",
+    "OddsetName": "Hull City",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Sunderland",
+    "OddsetName": "Sunderland",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Leeds",
+    "OddsetName": "Leeds",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Cardiff",
+    "OddsetName": "Cardiff City",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Norwich",
+    "OddsetName": "Norwich",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Bristol C.",
+    "OddsetName": "Bristol City",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Birmingham",
+    "OddsetName": "Birmingham",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Millwall",
+    "OddsetName": "Millwall",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Plymouth",
+    "OddsetName": "Plymouth",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "West Bromwich",
+    "OddsetName": "West Brom",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Blackburn",
+    "OddsetName": "Blackburn",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Southampton",
+    "OddsetName": "Southampton",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Watford",
+    "OddsetName": "Watford",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Huddersfield",
+    "OddsetName": "Huddersfield Town",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Coventry",
+    "OddsetName": "Coventry",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Q.P.R.",
+    "OddsetName": "Queens Park Rangers",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Stoke",
+    "OddsetName": "Stoke City",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Swansea",
+    "OddsetName": "Swansea",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Middlesbrough",
+    "OddsetName": "Middlesbrough",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Rotherham",
+    "OddsetName": "Rotherham",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40817,
+    "Name": "Sheff.Wed",
+    "OddsetName": "Sheffield Wed",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Bayern München",
+    "OddsetName": "Bayern Munchen",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "B. Leverkusen",
+    "OddsetName": "Leverkusen",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Stuttgart",
+    "OddsetName": "Stuttgart",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "RB Leipzig",
+    "OddsetName": "RB Leipzig",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "1899 Hoffenheim",
+    "OddsetName": "Hoffenheim",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "B.Dortmund",
+    "OddsetName": "Dortmund",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Wolfsburg",
+    "OddsetName": "Wolfsburg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "E.Frankfurt",
+    "OddsetName": "Eintracht Frankfurt",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Freiburg",
+    "OddsetName": "Freiburg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Union Berlin",
+    "OddsetName": "Union Berlin",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "W.Bremen",
+    "OddsetName": "Werder Bremen",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Augsburg",
+    "OddsetName": "Augsburg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "1. FC Heidenheim",
+    "OddsetName": "FC Heidenheim",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Bochum",
+    "OddsetName": "Bochum",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "B.M'gladbach",
+    "OddsetName": "Monchengladbach",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Köln",
+    "OddsetName": "Cologne",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "SV Darmstadt 98",
+    "OddsetName": "SV Darmstadt 98",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40481,
+    "Name": "Mainz 05 FSV",
+    "OddsetName": "Mainz",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Brest",
+    "OddsetName": "Stade Brest",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Nice",
+    "OddsetName": "Nice",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Paris S.G.",
+    "OddsetName": "Paris St-Germain",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Monaco",
+    "OddsetName": "Monaco",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Strasbourg",
+    "OddsetName": "Strasbourg",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Le Havre",
+    "OddsetName": "Le Havre",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Marseille",
+    "OddsetName": "Marseille",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Rennes",
+    "OddsetName": "Stade Rennes",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Nantes",
+    "OddsetName": "Nantes",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Lille",
+    "OddsetName": "Lille",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Metz",
+    "OddsetName": "Metz",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Reims",
+    "OddsetName": "Reims",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Montpellier",
+    "OddsetName": "Montpellier",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Lorient",
+    "OddsetName": "Lorient",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Toulouse",
+    "OddsetName": "Toulouse",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Lens",
+    "OddsetName": "Lens",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Lyon",
+    "OddsetName": "Lyon",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 40032,
+    "Name": "Clermont",
+    "OddsetName": "Clermont",
+    "TV4Name": ""
+  }
 ]
