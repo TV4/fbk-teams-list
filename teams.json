@@ -1270,37 +1270,37 @@
     "Name": "PAS Giannina",
     "OddsetName": "PAS Giannina",
     "TV4Name": ""
-  }, 
+  },
   {
     "LeagueID": 52938,
     "Name": "AEK Athens",
     "OddsetName": "AEK Athens",
     "TV4Name": ""
-  }, 
+  },
   {
     "LeagueID": 52938,
     "Name": "Atromitos",
     "OddsetName": "Atromitos",
     "TV4Name": ""
-  }, 
+  },
   {
     "LeagueID": 52938,
     "Name": "Lamia",
     "OddsetName": "Lamia",
     "TV4Name": ""
-  }, 
+  },
   {
     "LeagueID": 52938,
     "Name": "Asteras Tripolis",
     "OddsetName": "Asteras Tripolis",
     "TV4Name": ""
-  },   
+  },
   {
     "LeagueID": 52938,
     "Name": "Aris Thessaloniki",
     "OddsetName": "Aris Thessaloniki",
     "TV4Name": ""
-  }, 
+  },
   {
     "LeagueID": 52938,
     "Name": "AE Kifisia FC",
@@ -1317,6 +1317,12 @@
     "LeagueID": 52938,
     "Name": "Volos NFC",
     "OddsetName": "Volos NFC",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 52938,
+    "Name": "Panathinaikos",
+    "OddsetName": "Panathinaikos",
     "TV4Name": ""
   }
 ]
