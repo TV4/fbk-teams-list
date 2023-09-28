@@ -1300,5 +1300,17 @@
     "Name": "AE Kifisia FC",
     "OddsetName": "AE Kifisia FC",
     "TV4Name": ""
+  },
+  {
+    "LeagueID": 52938,
+    "Name": "Olympiakos",
+    "OddsetName": "Olympiakos",
+    "TV4Name": ""
+  },
+  {
+    "LeagueID": 52938,
+    "Name": "Volos NFC",
+    "OddsetName": "Volos NFC",
+    "TV4Name": ""
   }
 ]
