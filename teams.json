@@ -1,6 +1,6 @@
 [
   {
-    "LeagueID": 128,
+    "LeagueID": 123,
     "Name": "Testing1234",
     "OddsetName": "Testing1234",
     "TV4Name": "Testing1234"
@@ -1328,7 +1328,7 @@
   {
    "LeagueID": 40685,
    "Name": "FC Köpenhamn",
-   "OddsetName": "FC Copenhagen",
+   "OddsetName": "FC Copenhagen",
    "TV4Name": ""
  },
  {
@@ -1339,8 +1339,8 @@
  },
  {
    "LeagueID": 40685,
-   "Name": "PSV",
-   "OddsetName": "PSV Eindhoven",
+   "Name": "P.S.V.",
+   "OddsetName": "PSV Eindhoven",
    "TV4Name": ""
  },
  {
@@ -1376,13 +1376,13 @@
  {
    "LeagueID": 40685,
    "Name": "Crvena Zvezda",
-   "OddsetName": "Red Star Belgrade",
+   "OddsetName": "Red Star Belgrade",
    "TV4Name": ""
  },
  {
    "LeagueID": 40685,
-   "Name": "Young Boys Bern",
-   "OddsetName": "Young Boys",
+   "Name": "BSC Young Boys",
+   "OddsetName": "Young Boys",
    "TV4Name": ""
  },
  {
@@ -1393,26 +1393,26 @@
  },
  {
    "LeagueID": 40685,
-   "Name": "Sjachtar Donetsk",
-   "OddsetName": "Shakhtar Donetsk",
+   "Name": "Sjaktar Donetsk",
+   "OddsetName": "Shakhtar Donetsk",
    "TV4Name": ""
  },
  {
    "LeagueID": 40685,
-   "Name": "Royal Antwerp",
+   "Name": "Antwerp",
    "OddsetName": "Antwerp",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
-   "Name": "TSC Bačka Topola",
-   "OddsetName": "FK Backa Topola",
+   "Name": "TSC",
+   "OddsetName": "FK Backa Topola",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "AEK Athens",
-   "OddsetName": "AEK Athens",
+   "OddsetName": "AEK Athens",
    "TV4Name": ""
  },
  {
@@ -1423,80 +1423,80 @@
  },
  {
    "LeagueID": 41410,
-   "Name": "Sparta Prag",
-   "OddsetName": "Sparta Prague",
+   "Name": "AC Sparta Prague",
+   "OddsetName": "Sparta Prague",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
-   "Name": "Rangers",
+   "Name": "Glasgow Rangers",
    "OddsetName": "Rangers",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Aris Limassol",
-   "OddsetName": "Aris Limassol",
+   "OddsetName": "Aris Limassol",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
-   "Name": "Sporting Lissabon",
-   "OddsetName": "Sporting Lisbon",
+   "Name": "Sporting Lisboa",
+   "OddsetName": "Sporting Lisbon",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Sturm Graz",
-   "OddsetName": "Sturm Graz",
+   "OddsetName": "Sturm Graz",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Raków Częstochowa",
-   "OddsetName": "Rakow Czestochowa",
+   "OddsetName": "Rakow Czestochowa",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Union Saint-Gilloise",
-   "OddsetName": "Saint Gilloise",
+   "OddsetName": "Saint Gilloise",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "LASK Linz",
-   "OddsetName": "LASK Linz",
+   "OddsetName": "LASK Linz",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Maccabi Haifa",
-   "OddsetName": "Maccabi Haifa",
+   "OddsetName": "Maccabi Haifa",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
-   "Name": "Slavia Praha",
-   "OddsetName": "Slavia Prague",
+   "Name": "Slavia Prague",
+   "OddsetName": "Slavia Prague",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Sheriff Tiraspol",
-   "OddsetName": "Sheriff Tiraspol",
+   "OddsetName": "Sheriff Tiraspol",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
    "Name": "Servette",
-   "OddsetName": "Servette Geneve",
+   "OddsetName": "Servette Geneve",
    "TV4Name": ""
  },
  {
    "LeagueID": 41410,
-   "Name": "Qarabag Agdam",
-   "OddsetName": "FK Qarabag",
+   "Name": "Qarabağ",
+   "OddsetName": "FK Qarabag",
    "TV4Name": ""
  },
  {
@@ -1508,25 +1508,25 @@
  {
    "LeagueID": 205493,
    "Name": "Slovan Bratislava",
-   "OddsetName": "Slovan Bratislava",
+   "OddsetName": "Slovan Bratislava",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "KÍ Klaksvík",
-   "OddsetName": "KI Klaksvik",
+   "OddsetName": "KI Klaksvik",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "Olimpija Ljubljana",
-   "OddsetName": "Olimpija Ljubljana",
+   "OddsetName": "Olimpija Ljubljana",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "Maccabi Tel Aviv",
-   "OddsetName": "Maccabi Tel Aviv",
+   "OddsetName": "Maccabi Tel Aviv",
    "TV4Name": ""
  },
  {
@@ -1538,7 +1538,7 @@
  {
    "LeagueID": 205493,
    "Name": "Zorya Luhansk",
-   "OddsetName": "Zorya Luhansk",
+   "OddsetName": "Zorya Luhansk",
    "TV4Name": ""
  },
  {
@@ -1555,8 +1555,8 @@
  },
  {
    "LeagueID": 205493,
-   "Name": "Viktoria Plzeň",
-   "OddsetName": "Viktoria Plzen",
+   "Name": "Viktoria Plzen",
+   "OddsetName": "Viktoria Plzen",
    "TV4Name": ""
  },
  {
@@ -1568,7 +1568,7 @@
  {
    "LeagueID": 205493,
    "Name": "Astana",
-   "OddsetName": "FC Astana",
+   "OddsetName": "FC Astana",
    "TV4Name": ""
  },
  {
@@ -1580,13 +1580,13 @@
  {
    "LeagueID": 205493,
    "Name": "Club Brugge",
-   "OddsetName": "Club Brugge",
+   "OddsetName": "Club Brugge",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "Bodø/Glimt",
-   "OddsetName": "Bodo Glimt",
+   "OddsetName": "Bodo Glimt",
    "TV4Name": ""
  },
  {
@@ -1598,19 +1598,19 @@
  {
    "LeagueID": 205493,
    "Name": "Zrinjski Mostar",
-   "OddsetName": "HSK Zrinjski Mostar",
+   "OddsetName": "HSK Zrinjski Mostar",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "Legia Warszawa",
-   "OddsetName": "Legia Warsaw",
+   "OddsetName": "Legia Warsaw",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "AZ",
-   "OddsetName": "AZ Alkmaar",
+   "OddsetName": "AZ Alkmaar",
    "TV4Name": ""
  },
  {
@@ -1628,19 +1628,19 @@
  {
    "LeagueID": 205493,
    "Name": "Čukarički Stankom",
-   "OddsetName": "Cukaricki Belgrade",
+   "OddsetName": "Cukaricki Belgrade",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
-   "Name": "PAOK",
-   "OddsetName": "PAOK Saloniki",
+   "Name": "PAO",
+   "OddsetName": "PAOK Saloniki",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "HJK",
-   "OddsetName": "HJK Helsinki",
+   "OddsetName": "HJK Helsinki",
    "TV4Name": ""
  },
  {
@@ -1652,7 +1652,7 @@
  {
    "LeagueID": 205493,
    "Name": "Ludogorets Razgrad",
-   "OddsetName": "Ludogorets Razgrad",
+   "OddsetName": "Ludogorets Razgrad",
    "TV4Name": ""
  },
  {
@@ -1664,13 +1664,13 @@
  {
    "LeagueID": 205493,
    "Name": "FC Nordsjælland",
-   "OddsetName": "FC Nordsjaelland",
+   "OddsetName": "FC Nordsjaelland",
    "TV4Name": ""
  },
  {
    "LeagueID": 205493,
    "Name": "Spartak Trnava",
-   "OddsetName": "Spartak Trnava",
+   "OddsetName": "Spartak Trnava",
    "TV4Name": ""
  }
 ]
